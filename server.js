@@ -20,3 +20,5 @@ app.use("/admin", adminRoute.router);
 // Listening to the server
 
 app.listen(3000);
+
+// A dummy code
